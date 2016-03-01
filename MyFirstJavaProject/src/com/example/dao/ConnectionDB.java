@@ -7,4 +7,7 @@ public class ConnectionDB {
 	public void closeConnection() {
 		//close connection
 	}
+	public void logError() {
+		//log error
+	}
 }
