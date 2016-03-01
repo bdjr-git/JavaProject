@@ -13,4 +13,8 @@ public class ConnectionDB {
 	public void printParameters() {
 		//printParameters
 	}
+	
+	public void feature1Method() {
+		//feature1 method
+	}
 }
