@@ -10,4 +10,7 @@ public class ConnectionDB {
 	public void logError() {
 		//log error
 	}
+	public void printParameters() {
+		//printParameters
+	}
 }
