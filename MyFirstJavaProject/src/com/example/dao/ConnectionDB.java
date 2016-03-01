@@ -4,4 +4,7 @@ public class ConnectionDB {
 	public String getConnectionName() {
 		return "DB Connection";
 	}
+	public void closeConnection() {
+		//close connection
+	}
 }
